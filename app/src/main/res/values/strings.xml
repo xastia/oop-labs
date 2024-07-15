@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">lab1</string>
+    <string name="title1">Вікно 1</string>
+    <string name="title2">Вікно 2</string>
+    <string name="title3">Оберіть групу:</string>
+    <string name="next">Далі</string>
+    <string name="cancel">Відміна</string>
+    <string name="work1">Робота 1</string>
+    <string name="work2">Робота 2</string>
+    <string name="yes">Так</string>
+    <string name="previous">Назад</string>
+
+
+</resources>
