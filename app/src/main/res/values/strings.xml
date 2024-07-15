@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">lab2</string>
+    <string name="line">Лінія</string>
+    <string name="ellipse">Еліпс</string>
+    <string name="rectangle">Прямокутник</string>
+    <string name="point">Крапка</string>
+</resources>
