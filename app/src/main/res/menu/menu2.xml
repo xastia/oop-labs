@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:title="@string/point"
+        android:id="@+id/point"
+        android:orderInCategory="1"
+        android:icon="@drawable/baseline_rectangle"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="@string/line"
+        android:id="@+id/line"
+        android:orderInCategory="2"
+        android:icon="@drawable/straight_horizontal_line_icon_icons_com_74237"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="@string/rectangle"
+        android:id="@+id/rectangle"
+        android:orderInCategory="3"
+        android:icon="@drawable/baseline_rectangle_24"
+        app:showAsAction="always"
+        />
+
+    <item
+        android:title="@string/ellipse"
+        android:id="@+id/ellipse"
+        android:orderInCategory="4"
+        android:icon="@drawable/blue_oval"
+        app:showAsAction="always"
+        />
+</menu>
