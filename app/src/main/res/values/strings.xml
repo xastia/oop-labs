@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">lab4</string>
+    <string name="line">Лінія</string>
+    <string name="ellipse">Еліпс</string>
+    <string name="rectangle">Прямокутник</string>
+    <string name="point">Крапка</string>
+    <string name="cube">Куб</string>
+    <string name="line00">Лінія з кружечками</string>
+</resources>
