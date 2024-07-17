@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu"
+        android:title="Об'єкти"
+        app:showAsAction="ifRoom">
+
+
+        <menu>
+            <item
+                android:title="Крапка"
+                android:id="@+id/point"
+                android:orderInCategory="5"
+
+                />
+
+            <item
+                android:title="Лінія"
+                android:id="@+id/line"
+                android:orderInCategory="6"
+                />
+
+            <item
+                android:title="Прямокутник"
+                android:id="@+id/rectangle"
+                android:orderInCategory="7"  />
+
+
+            <item
+                android:title="Еліпс"
+                android:id="@+id/ellipse"
+                android:orderInCategory="8"
+                />
+
+            <item
+                android:title="Куб"
+                android:id="@+id/cube"
+                android:orderInCategory="9"
+                />
+
+            <item
+                android:title="Лінія з кружечками"
+                android:id="@+id/line00"
+                android:orderInCategory="10"
+                />
+
+        </menu>
+
+    </item>
+
+</menu>
