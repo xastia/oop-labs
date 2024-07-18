@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">lab5</string>
+    <string name="shape">Shape</string>
+    <string name="shapes">Shapes</string>
+    <string name="point">Point</string>
+    <string name="rect">Rectangle</string>
+    <string name="line">Line</string>
+    <string name="ellipse">Ellipse</string>
+    <string name="cube">Cube</string>
+    <string name="line00">Line00</string>
+    <string name="table">Table</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+</resources>
