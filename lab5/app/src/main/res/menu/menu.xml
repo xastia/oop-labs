@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu"
+        android:title="@string/shapes"
+        app:showAsAction="ifRoom">
+
+
+        <menu>
+            <item
+                android:id="@+id/point"
+                android:orderInCategory="5"
+                android:title="@string/point"
+
+                />
+
+            <item
+                android:id="@+id/line"
+                android:orderInCategory="6"
+                android:title="@string/line" />
+
+            <item
+                android:id="@+id/rectangle"
+                android:orderInCategory="7"
+                android:title="@string/rect" />
+
+
+            <item
+                android:id="@+id/ellipse"
+                android:orderInCategory="8"
+                android:title="@string/ellipse" />
+
+            <item
+                android:id="@+id/cube"
+                android:orderInCategory="9"
+                android:title="@string/cube" />
+
+            <item
+                android:id="@+id/line00"
+                android:orderInCategory="10"
+                android:title="@string/line00" />
+
+        </menu>
+
+    </item>
+
+</menu>
